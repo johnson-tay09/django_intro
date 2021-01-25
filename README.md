@@ -7,4 +7,4 @@ Use Django library to make a basic web app.
 Set up your project. Install dependencies. Configure a home and about page.
 
 ### Pull Request
-lab26 PR https://github.com/johnson-tay09/web-scraper/compare/rework18?expand=1
+lab26 PR https://github.com/johnson-tay09/django_intro/pull/1
